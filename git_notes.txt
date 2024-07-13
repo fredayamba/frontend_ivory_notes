@@ -3,3 +3,5 @@ git init - used to initialize or introduce git into your project that enables yo
 git status - to check if any file has been changed on git
 
 git add -  tells git to add modifications to your file
+
+git commit - takes a snapshot of your changes
