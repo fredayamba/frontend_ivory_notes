@@ -1,0 +1,1 @@
+git init - used to initialize or introduce git into your project that enables you to work with git
