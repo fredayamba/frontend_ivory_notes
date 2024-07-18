@@ -6,4 +6,4 @@ git add -  tells git to add modifications to your file
 
 git commit - takes a snapshot of your changes
 
-git log - keeps a record of every change that has been made
+git log - keeps a record of every change that has been madeadding the github link now
